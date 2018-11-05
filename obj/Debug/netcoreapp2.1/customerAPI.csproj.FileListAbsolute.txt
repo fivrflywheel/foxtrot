@@ -1,0 +1,14 @@
+C:\code\customerAPI\customerAPI\bin\Debug\netcoreapp2.1\customerAPI.deps.json
+C:\code\customerAPI\customerAPI\bin\Debug\netcoreapp2.1\customerAPI.runtimeconfig.json
+C:\code\customerAPI\customerAPI\bin\Debug\netcoreapp2.1\customerAPI.runtimeconfig.dev.json
+C:\code\customerAPI\customerAPI\bin\Debug\netcoreapp2.1\customerAPI.dll
+C:\code\customerAPI\customerAPI\bin\Debug\netcoreapp2.1\customerAPI.pdb
+C:\code\customerAPI\customerAPI\obj\Debug\netcoreapp2.1\customerAPI.csprojAssemblyReference.cache
+C:\code\customerAPI\customerAPI\obj\Debug\netcoreapp2.1\customerAPI.csproj.CoreCompileInputs.cache
+C:\code\customerAPI\customerAPI\obj\Debug\netcoreapp2.1\customerAPI.RazorAssemblyInfo.cache
+C:\code\customerAPI\customerAPI\obj\Debug\netcoreapp2.1\customerAPI.RazorAssemblyInfo.cs
+C:\code\customerAPI\customerAPI\obj\Debug\netcoreapp2.1\customerAPI.AssemblyInfoInputs.cache
+C:\code\customerAPI\customerAPI\obj\Debug\netcoreapp2.1\customerAPI.AssemblyInfo.cs
+C:\code\customerAPI\customerAPI\obj\Debug\netcoreapp2.1\customerAPI.RazorTargetAssemblyInfo.cache
+C:\code\customerAPI\customerAPI\obj\Debug\netcoreapp2.1\customerAPI.dll
+C:\code\customerAPI\customerAPI\obj\Debug\netcoreapp2.1\customerAPI.pdb

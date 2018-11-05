@@ -1,0 +1,775 @@
+{
+    "count": 40,
+    "value": [
+        {
+            "inheritPermissions": true,
+            "token": "repoV2",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1204400969-2402986413-2179408616-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1204400969-2402986413-2179408616-0-0-0-0-1",
+                    "allow": 32630,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1204400969-2402986413-2179408616-0-0-0-0-2": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1204400969-2402986413-2179408616-0-0-0-0-2",
+                    "allow": 32630,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1204400969-2402986413-2179408616-0-0-0-1-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1204400969-2402986413-2179408616-0-0-0-1-1",
+                    "allow": 16386,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/0f403954-0eda-403c-8a8d-e29054f26831",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 16418,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1413038095-3658366016-2324554384-1425172529-1-1166649448-2827779151-2743551766-273042157": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1413038095-3658366016-2324554384-1425172529-1-1166649448-2827779151-2743551766-273042157",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1413038095-3658366016-2324554384-1425172529-1-1555582522-2149387075-2153398103-553408226": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1413038095-3658366016-2324554384-1425172529-1-1555582522-2149387075-2153398103-553408226",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1413038095-3658366016-2324554384-1425172529-1-2865140615-4200889152-2769934959-178706002": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1413038095-3658366016-2324554384-1425172529-1-2865140615-4200889152-2769934959-178706002",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3653647941-2256266828-2321171244-3215718713-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3653647941-2256266828-2321171244-3215718713-0-0-0-0-1",
+                    "allow": 32639,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/0f403954-0eda-403c-8a8d-e29054f26831/6817b482-8912-429f-8511-f6c9407a7cf0",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/21ee26cd-cf74-4a9f-98b9-8e6210686b50",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 16418,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1617432229-630016584-2864686220-3204871585-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1617432229-630016584-2864686220-3204871585-0-0-0-0-1",
+                    "allow": 32638,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3441880609-1959763786-2562297442-275278672-1-2043345165-479599435-3054979306-1110281329": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3441880609-1959763786-2562297442-275278672-1-2043345165-479599435-3054979306-1110281329",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3441880609-1959763786-2562297442-275278672-1-2932015977-730316360-2607286724-119712492": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3441880609-1959763786-2562297442-275278672-1-2932015977-730316360-2607286724-119712492",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3441880609-1959763786-2562297442-275278672-1-3991292801-1965854528-2304659000-3688164212": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3441880609-1959763786-2562297442-275278672-1-3991292801-1965854528-2304659000-3688164212",
+                    "allow": 16386,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/21ee26cd-cf74-4a9f-98b9-8e6210686b50/590cc794-bd0f-4f6d-80ff-5f16f1821c8a",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/2ae9be88-fbea-4cee-8464-27b317909886",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 16418,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1731324956-2142914888-2746155509-528446950-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1731324956-2142914888-2746155509-528446950-0-0-0-0-1",
+                    "allow": 32639,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2294212906-3942379084-2221156275-395352198-1-2212283754-3856940611-2416294229-2299574922": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2294212906-3942379084-2221156275-395352198-1-2212283754-3856940611-2416294229-2299574922",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2294212906-3942379084-2221156275-395352198-1-2309891522-1074162254-2388466109-1447481306": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2294212906-3942379084-2221156275-395352198-1-2309891522-1074162254-2388466109-1447481306",
+                    "allow": 16386,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/2ae9be88-fbea-4cee-8464-27b317909886/88d03d20-3b97-4f9c-a410-f68172cd3e24",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/4baf837f-4a8a-4c16-a11e-50bcca05aa4f",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 34,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2139336523-2320111180-2703118524-3389368911-1-2361014051-2805849921-2355723714-3056635050": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2139336523-2320111180-2703118524-3389368911-1-2361014051-2805849921-2355723714-3056635050",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2139336523-2320111180-2703118524-3389368911-1-2854131898-2315163974-2561001212-3403176122": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2139336523-2320111180-2703118524-3389368911-1-2854131898-2315163974-2561001212-3403176122",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2139336523-2320111180-2703118524-3389368911-1-885769007-3642138951-2577152679-929668860": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2139336523-2320111180-2703118524-3389368911-1-885769007-3642138951-2577152679-929668860",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-678440836-2578126927-2569897927-2936023822-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-678440836-2578126927-2569897927-2936023822-0-0-0-0-1",
+                    "allow": 32630,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/4baf837f-4a8a-4c16-a11e-50bcca05aa4f/0dc3afe0-b93c-4864-b729-fdf84c97abf4",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/5882d2dc-e95a-4c2f-9565-3beeb198fad4",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\gozhang@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\gozhang@microsoft.com",
+                    "allow": 2,
+                    "deny": 0
+                },
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32896,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 34,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3704783448-1525231436-2506439662-2979592916-1-1842847794-1349990733-2713627168-2945383594": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3704783448-1525231436-2506439662-2979592916-1-1842847794-1349990733-2713627168-2945383594",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3704783448-1525231436-2506439662-2979592916-1-2105759965-1845880398-2569530945-788910924": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3704783448-1525231436-2506439662-2979592916-1-2105759965-1845880398-2569530945-788910924",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3704783448-1525231436-2506439662-2979592916-1-3717740379-448631113-3216480950-1547394455": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3704783448-1525231436-2506439662-2979592916-1-3717740379-448631113-3216480950-1547394455",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3854518304-2975189837-2508433133-1644501273-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3854518304-2975189837-2508433133-1644501273-0-0-0-0-1",
+                    "allow": 32630,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/5882d2dc-e95a-4c2f-9565-3beeb198fad4/4c25e8cd-3678-4504-ae7b-29fe5eba589d",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/64493af9-9e01-433e-95dc-6457460ea0e3",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 34,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3991163232-320226121-3109220745-1726880919-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3991163232-320226121-3109220745-1726880919-0-0-0-0-1",
+                    "allow": 32630,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-4181346660-27147843-2514248791-1175363811-1-2640766377-1590097228-2191322893-4197746919": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-4181346660-27147843-2514248791-1175363811-1-2640766377-1590097228-2191322893-4197746919",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-4181346660-27147843-2514248791-1175363811-1-3038541864-994849096-2432601563-2295718243": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-4181346660-27147843-2514248791-1175363811-1-3038541864-994849096-2432601563-2295718243",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-4181346660-27147843-2514248791-1175363811-1-923754669-1699951177-2725125487-4175847046": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-4181346660-27147843-2514248791-1175363811-1-923754669-1699951177-2725125487-4175847046",
+                    "allow": 16502,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/64493af9-9e01-433e-95dc-6457460ea0e3/7012712b-9eed-4762-adb2-85455abbec1f",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/a580eab0-1e0a-47aa-9bc9-69da9bacd423",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 16418,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2968158373-169781831-2613668314-2611794979-1-1019955963-2068821314-2303880177-3403335080": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2968158373-169781831-2613668314-2611794979-1-1019955963-2068821314-2303880177-3403335080",
+                    "allow": 16758,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2968158373-169781831-2613668314-2611794979-1-1857868665-686986061-2422528804-3993896738": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2968158373-169781831-2613668314-2611794979-1-1857868665-686986061-2422528804-3993896738",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2968158373-169781831-2613668314-2611794979-1-3882443415-455143753-2351139285-4176700406": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2968158373-169781831-2613668314-2611794979-1-3882443415-455143753-2351139285-4176700406",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3644127139-1407439689-2828968990-2891417850-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3644127139-1407439689-2828968990-2891417850-0-0-0-0-1",
+                    "allow": 32639,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/a580eab0-1e0a-47aa-9bc9-69da9bacd423/a965d284-1809-4468-b4e9-e6910b1b8762",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/ae2188de-9312-4e14-8ca2-78cc3ce7c1d5",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\mkorte@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\mkorte@microsoft.com",
+                    "allow": 4,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 16418,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-231481270-1361110852-2810474179-1183216382-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-231481270-1361110852-2810474179-1183216382-0-0-0-0-1",
+                    "allow": 32639,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3733463470-311628878-2359457996-1021821397-1-2920391939-1123632198-2149670364-3492122071": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3733463470-311628878-2359457996-1021821397-1-2920391939-1123632198-2149670364-3492122071",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3733463470-311628878-2359457996-1021821397-1-3588884601-3418782023-3007103973-3533230641": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3733463470-311628878-2359457996-1021821397-1-3588884601-3418782023-3007103973-3533230641",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3733463470-311628878-2359457996-1021821397-1-721272339-1811825736-2211397451-3796639603": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3733463470-311628878-2359457996-1021821397-1-721272339-1811825736-2211397451-3796639603",
+                    "allow": 16502,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/ae2188de-9312-4e14-8ca2-78cc3ce7c1d5/cd6c77ed-7fcc-433e-9681-f9328f3c6fc2",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/ba250f11-8646-4d6d-8e26-96118b019688",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 16418,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-286205370-1183214925-2384893457-2332137096-1-1610303734-1345619533-2635558953-3245709671": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-286205370-1183214925-2384893457-2332137096-1-1610303734-1345619533-2635558953-3245709671",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-286205370-1183214925-2384893457-2332137096-1-976883792-3341412673-2488785440-3974917005": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-286205370-1183214925-2384893457-2332137096-1-976883792-3341412673-2488785440-3974917005",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-286205370-1183214925-2384893457-2332137096-1-978328314-3815214667-3052332892-456269094": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-286205370-1183214925-2384893457-2332137096-1-978328314-3815214667-3052332892-456269094",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-4239520327-437711180-2485534911-1637892685-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-4239520327-437711180-2485534911-1637892685-0-0-0-0-1",
+                    "allow": 32638,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/ba250f11-8646-4d6d-8e26-96118b019688/7975be53-e709-4cd3-a368-7dfa7fcf846c/refs/heads/6d0061007300740065007200",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 14348,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/ba250f11-8646-4d6d-8e26-96118b019688/7975be53-e709-4cd3-a368-7dfa7fcf846c/refs/heads/73007000720069006e00740030002d0068006f007400660069007800",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 14348,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/ba250f11-8646-4d6d-8e26-96118b019688/7975be53-e709-4cd3-a368-7dfa7fcf846c/refs/heads/74006500730074003100",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 14348,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/ba250f11-8646-4d6d-8e26-96118b019688/8449281b-fee0-4099-a640-362d252c8e6b/refs/heads/6d0061007300740065007200",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 14348,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/be0607a0-3b70-433a-a093-53016358777c",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 16418,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2684815038-1882929731-2694009601-1666742140-1-1147234492-770885704-3117800533-2002071290": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2684815038-1882929731-2694009601-1666742140-1-1147234492-770885704-3117800533-2002071290",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2684815038-1882929731-2694009601-1666742140-1-1620117077-2675817551-2377421196-49651652": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2684815038-1882929731-2694009601-1666742140-1-1620117077-2675817551-2377421196-49651652",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2684815038-1882929731-2694009601-1666742140-1-928563240-3025323078-2803906366-2248702404": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2684815038-1882929731-2694009601-1666742140-1-928563240-3025323078-2803906366-2248702404",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-905368875-1584725327-3125646822-2493964153-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-905368875-1584725327-3125646822-2493964153-0-0-0-0-1",
+                    "allow": 32638,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/be0607a0-3b70-433a-a093-53016358777c/192b575c-afa5-47b0-a2b0-ddb7cbf43e3f",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/be0607a0-3b70-433a-a093-53016358777c/3f9e2ab3-98d4-480e-b602-ac8478cef3ce",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/be0607a0-3b70-433a-a093-53016358777c/3f9e2ab3-98d4-480e-b602-ac8478cef3ce/refs/heads/6d0061007300740065007200",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 14348,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/be0607a0-3b70-433a-a093-53016358777c/c9771ef7-1412-4849-b8f5-ed3c8a202501",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/be0607a0-3b70-433a-a093-53016358777c/c9771ef7-1412-4849-b8f5-ed3c8a202501/refs/heads/6d0061007300740065007200",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 14348,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/bf5aed7f-cbd9-4656-acdf-a01ddac7381f",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 16418,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:bf5aed7f-cbd9-4656-acdf-a01ddac7381f": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:bf5aed7f-cbd9-4656-acdf-a01ddac7381f",
+                    "allow": 16418,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2146261695-3653981766-2900336669-3670489119-1-3539350296-1617013327-2769749758-1768955508": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2146261695-3653981766-2900336669-3670489119-1-3539350296-1617013327-2769749758-1768955508",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2146261695-3653981766-2900336669-3670489119-1-3598280119-1703919950-2520927973-2426622201": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2146261695-3653981766-2900336669-3670489119-1-3598280119-1703919950-2520927973-2426622201",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2146261695-3653981766-2900336669-3670489119-1-4206864018-773445190-2964092260-1292247083": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2146261695-3653981766-2900336669-3670489119-1-4206864018-773445190-2964092260-1292247083",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-4097051217-1566039361-2618066325-2249958879-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-4097051217-1566039361-2618066325-2249958879-0-0-0-0-1",
+                    "allow": 32638,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/e664aa36-1f79-485a-b8a9-8a6396c66fdb",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 16418,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1792839900-1732058439-2397219084-328245032-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1792839900-1732058439-2397219084-328245032-0-0-0-0-1",
+                    "allow": 32638,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-917136614-2032097864-3098118755-2529587163-1-2508237562-1149648965-2411265872-1439097465": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-917136614-2032097864-3098118755-2529587163-1-2508237562-1149648965-2411265872-1439097465",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-917136614-2032097864-3098118755-2529587163-1-338324393-4186974539-2410843543-1211704417": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-917136614-2032097864-3098118755-2529587163-1-338324393-4186974539-2410843543-1211704417",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-917136614-2032097864-3098118755-2529587163-1-798956727-1519407181-2227465337-2775549680": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-917136614-2032097864-3098118755-2529587163-1-798956727-1519407181-2227465337-2775549680",
+                    "allow": 16502,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/e664aa36-1f79-485a-b8a9-8a6396c66fdb/a03e2dc0-2b57-46ad-85b7-43aef2d0f25f",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/f6320485-dddf-4ccb-a66d-5968a27b1ca4",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 34,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2231644918-3755854668-2792184168-2725977252-1-171903569-629189451-3044983817-4249245542": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2231644918-3755854668-2792184168-2725977252-1-171903569-629189451-3044983817-4249245542",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2231644918-3755854668-2792184168-2725977252-1-2563841573-1592027726-2498007222-4160334961": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2231644918-3755854668-2792184168-2725977252-1-2563841573-1592027726-2498007222-4160334961",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2231644918-3755854668-2792184168-2725977252-1-3645979143-3352369988-2985853004-1387095904": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2231644918-3755854668-2792184168-2725977252-1-3645979143-3352369988-2985853004-1387095904",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2519007421-715672140-3092942067-1798154292-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2519007421-715672140-3092942067-1798154292-0-0-0-0-1",
+                    "allow": 32630,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/f6320485-dddf-4ccb-a66d-5968a27b1ca4/39cddfa7-8166-4a7c-b5b5-ff6fd9333b50",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/f63717e5-9ff7-458d-a119-0e8520c402cb",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 16418,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1931149440-1759914824-2728219243-4051297565-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1931149440-1759914824-2728219243-4051297565-0-0-0-0-1",
+                    "allow": 32631,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3843504118-4154428741-2702773893-549716683-1-1086334839-545669446-2653149797-7899708": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3843504118-4154428741-2702773893-549716683-1-1086334839-545669446-2653149797-7899708",
+                    "allow": 15998,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3843504118-4154428741-2702773893-549716683-1-1910771895-2893131851-2297214260-3748327843": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3843504118-4154428741-2702773893-549716683-1-1910771895-2893131851-2297214260-3748327843",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3843504118-4154428741-2702773893-549716683-1-3692692581-3777682500-3089118608-396103802": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3843504118-4154428741-2702773893-549716683-1-3692692581-3777682500-3089118608-396103802",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3843504118-4154428741-2702773893-549716683-1-515767227-3851025475-2962314404-3147874466": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-3843504118-4154428741-2702773893-549716683-1-515767227-3851025475-2962314404-3147874466",
+                    "allow": 16502,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/f63717e5-9ff7-458d-a119-0e8520c402cb/213217ab-9e30-4c33-aad9-22a0c96f1377",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/f63717e5-9ff7-458d-a119-0e8520c402cb/213217ab-9e30-4c33-aad9-22a0c96f1377/refs/heads/770069006b0069004d0061007300740065007200",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 14348,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/f63717e5-9ff7-458d-a119-0e8520c402cb/2691b076-87d7-483a-a5c6-80b16c232fc0",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 32382,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/f63717e5-9ff7-458d-a119-0e8520c402cb/2691b076-87d7-483a-a5c6-80b16c232fc0/refs/heads/6d0061007300740065007200",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\rajr@microsoft.com",
+                    "allow": 14348,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "repoV2/f650a550-3341-4de1-a1cd-eb634e1bde10",
+            "acesDictionary": {
+                "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b": {
+                    "descriptor": "Microsoft.TeamFoundation.ServiceIdentity;b962ed4f-6670-4a37-ad24-8b9381530e67:Build:75502c7c-2c09-442b-9efb-7349e6be2c7b",
+                    "allow": 16418,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1353011446-1093919053-2714626915-1310449168-1-107896328-3359657807-2504062157-104299249": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1353011446-1093919053-2714626915-1310449168-1-107896328-3359657807-2504062157-104299249",
+                    "allow": 16386,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1353011446-1093919053-2714626915-1310449168-1-2907473027-3909936712-2280512959-1950497270": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1353011446-1093919053-2714626915-1310449168-1-2907473027-3909936712-2280512959-1950497270",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1353011446-1093919053-2714626915-1310449168-1-630658143-3483785801-2612680673-2568380952": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-1353011446-1093919053-2714626915-1310449168-1-630658143-3483785801-2612680673-2568380952",
+                    "allow": 16502,
+                    "deny": 0
+                },
+                "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2454039518-4272804172-2910728762-752805695-0-0-0-0-1": {
+                    "descriptor": "Microsoft.TeamFoundation.Identity;S-1-9-1551374245-2454039518-4272804172-2910728762-752805695-0-0-0-0-1",
+                    "allow": 32638,
+                    "deny": 0
+                }
+            }
+        },
+        {
+            "inheritPermissions": true,
+            "token": "Tp1Token",
+            "acesDictionary": {
+                "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\gozhang@microsoft.com": {
+                    "descriptor": "Microsoft.IdentityModel.Claims.ClaimsIdentity;72f988bf-86f1-41af-91ab-2d7cd011db47\\gozhang@microsoft.com",
+                    "allow": 1,
+                    "deny": 0
+                }
+            }
+        }
+    ]
+}
